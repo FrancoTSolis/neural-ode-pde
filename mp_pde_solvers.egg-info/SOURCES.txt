@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+common/__init__.py
+common/coefficients.py
+common/derivatives.py
+common/utils.py
+mp_pde_solvers.egg-info/PKG-INFO
+mp_pde_solvers.egg-info/SOURCES.txt
+mp_pde_solvers.egg-info/dependency_links.txt
+mp_pde_solvers.egg-info/top_level.txt
+temporal/__init__.py
+temporal/solvers.py
+temporal/tableaux.py
