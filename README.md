@@ -1,5 +1,7 @@
 # Analysis of Neural ODE Performance in PDE Sequence Modeling
 
+Paper link: https://openreview.net/forum?id=rnxAKI2kRD 
+
 ### Set up conda environment
 
 `source environment.sh`
